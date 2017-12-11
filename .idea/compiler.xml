@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="multi-module-product" />
         <module name="spring-boot-jdbc" />
+        <module name="spring-boot-shiro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="multi-module-product" target="1.5" />
       <module name="spring-boot-jdbc" target="1.8" />
+      <module name="spring-boot-shiro" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

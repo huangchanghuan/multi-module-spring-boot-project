@@ -1,4 +1,4 @@
-package com.yimi.product.springbootjdbc.module.user.dao;
+package com.yimi.product.module.user.dao;
 
 /**
  * 用户dao接口

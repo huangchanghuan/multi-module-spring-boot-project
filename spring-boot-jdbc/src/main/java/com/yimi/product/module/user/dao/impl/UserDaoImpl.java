@@ -1,6 +1,6 @@
-package com.yimi.product.springbootjdbc.module.user.dao.impl;
+package com.yimi.product.module.user.dao.impl;
 
-import com.yimi.product.springbootjdbc.module.user.dao.UserDao;
+import com.yimi.product.module.user.dao.UserDao;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +12,7 @@ import org.springframework.stereotype.Repository;
  *
  */
 @Repository
-public class UserDaoImpl implements UserDao{
+public class UserDaoImpl implements UserDao {
     private final static Logger logger = LoggerFactory.getLogger(UserDaoImpl.class);
     @Autowired
     private JdbcTemplate jdbcTemplate;

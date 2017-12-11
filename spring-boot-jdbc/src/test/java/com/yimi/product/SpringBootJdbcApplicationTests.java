@@ -1,6 +1,6 @@
-package com.yimi.product.springbootjdbc;
+package com.yimi.product;
 
-import com.yimi.product.springbootjdbc.module.user.dao.UserDao;
+import com.yimi.product.module.user.dao.UserDao;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
