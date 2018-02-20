@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebClientModule/WebClientModule.iml" filepath="$PROJECT_DIR$/WebClientModule/WebClientModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi-module-product.iml" filepath="$PROJECT_DIR$/multi-module-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-jdbc/spring-boot-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-jdbc/spring-boot-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" filepath="$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" />

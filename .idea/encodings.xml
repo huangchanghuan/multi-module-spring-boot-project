@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/commons-codec-1.9.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/commons-io-2.5.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/commons-lang3-3.5.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/commons-logging-1.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/cssparser-0.9.23.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/htmlunit-2.27.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/htmlunit-core-js-2.27.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/httpclient-4.5.3.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/httpcore-4.4.6.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/httpmime-4.5.3.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/jetty-client-9.4.5.v20170502.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/jetty-http-9.4.5.v20170502.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/jetty-io-9.4.5.v20170502.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/jetty-util-9.4.5.v20170502.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/jsoup-1.9.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/neko-htmlunit-2.27.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/sac-1.3.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/serializer-2.7.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/websocket-api-9.4.5.v20170502.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/websocket-client-9.4.5.v20170502.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/websocket-common-9.4.5.v20170502.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/xalan-2.7.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/xercesImpl-2.11.0.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/lib/xml-apis-1.4.01.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebClientModule/src/ParseTaoBaoVoucher.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/spring-boot-jdbc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-shiro" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
